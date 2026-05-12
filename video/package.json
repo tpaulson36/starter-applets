@@ -10,20 +10,20 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@google/generative-ai": "^0.21.0",
+    "@google/generative-ai": "^0.24.1",
     "classnames": "^2.5.1",
     "d3-array": "^3.2.4",
     "d3-scale": "^4.0.2",
     "d3-shape": "^3.2.0",
-    "express": "^4.21.2",
-    "multer": "^1.4.5-lts.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "express": "^5.2.1",
+    "multer": "^2.1.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
   },
   "devDependencies": {
     "@eslint/js": "^10.3.0",
-    "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
     "eslint": "^10.3.0",
     "eslint-plugin-react": "^7.37.5",
@@ -31,7 +31,7 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^15.11.0",
     "sass": "^1.80.6",
-    "vite": "^8.0.10",
+    "vite": "^8.0.12",
     "vite-express": "^0.20.0"
   }
 }

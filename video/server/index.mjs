@@ -50,7 +50,7 @@ app.post('/api/prompt', async (req, res) => {
     )
     res.json(videoResponse)
   } catch (error) {
-    res.json({error}, {status: 400})
+    res.status(400).json({error})
   }
 })
 
